@@ -53,7 +53,7 @@ Para construção deste projecto foi usado as seguintes ferramentas:
       - [x] mvn spring-boot:run ou clicar no play
 
     Após a execução do projecto no terminal, digita o seguinte endereço no browser:
-      - [x] http://localhost:8080/api/v1/petshop/
+      - [x] localhost:8080/kafka/pessoas
 
 # Documentação de referência
 Para referência adicional, considere as seguintes seções:
